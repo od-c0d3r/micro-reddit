@@ -1,24 +1,50 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# PROJECT : BUILDING WITH ACTIVE RECORD
 
-Things you may want to cover:
+> light weight Reddit clone
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Ruby on Rails
 
-* Database creation
+## Live Demo
 
-* Database initialization
+[Live Demo Link](https://livedemo.com)
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+- Clone the repo.
+- Enter the folder `cd micro-reddit` 
+- Run `bundle install` to make sure that you have all dependencies to run the app.
+- Run `rails db:migrate` 
+- Run `rails c` to open console and interact with application
 
-* Deployment instructions
+👤 **Author1**
 
-* ...
+- GitHub: [@githubhandle](https://github.com/od-c0d3r)
+- Twitter: [@twitterhandle](https://twitter.com/od_coder)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/omarrashad)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
