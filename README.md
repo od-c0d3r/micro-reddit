@@ -10,9 +10,6 @@
 - Ruby
 - Ruby on Rails
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 ## Getting Started
 
@@ -24,9 +21,9 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/od-c0d3r)
-- Twitter: [@twitterhandle](https://twitter.com/od_coder)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/omarrashad)
+- GitHub: [@od-c0d3r](https://github.com/od-c0d3r)
+- Twitter: [@od-coder](https://twitter.com/od_coder)
+- LinkedIn: [Profile](https://linkedin.com/in/omarrashad)
 
 
 ## 🤝 Contributing
@@ -38,12 +35,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
